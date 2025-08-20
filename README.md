@@ -1,4 +1,4 @@
-### lexo
+# lexo
 
 ## Architecture and Flow
 
